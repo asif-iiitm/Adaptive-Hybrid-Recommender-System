@@ -15,7 +15,7 @@ django-realtime==1.1
 html5lib==0.999
 httplib2==0.18.0
 
-Jinja2==2.8
+Jinja2==2.11.3
 
 pysqlite==2.6.3
 simplejson==3.8.1
