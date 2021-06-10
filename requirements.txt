@@ -6,7 +6,7 @@ bottle==0.12.8
 
 colorama==0.2.5
 
-Django==1.11.29
+Django==2.2.24
 django-autocomplete-light==2.2.4
 django-crispy-forms==1.4.0
 django-realtime==1.1
